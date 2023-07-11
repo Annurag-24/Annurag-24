@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NextJS, Spring Boot<br><br>👨‍💻 All of my projects are available at https://vanrajpardeshi.netlify.app<br><br>💬 Ask me about react,javascript,dsa,java,tailwind,css,bootstrap<br><br>📫 How to reach me truecapturers@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1KeC9ahodJMaiDWzMOZuuJTdEeBCf9YVI/view?usp=drivesdk
+🌱 I’m currently learning Data Science & DSA <br><br>👨‍💻 All of my projects are available at <br><br>💬 Ask me about Pthon, ML Algorithm, Html5, CSS, Data Analytics<br><br>📫 How to reach me annurag2402@gmail.com<br><br>📄 Know about my experiences 
 
 
 ## 🌐 Socials:
