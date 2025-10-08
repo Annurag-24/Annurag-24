@@ -59,7 +59,7 @@ I bring experience in **leading mobile teams, architecting clean and maintainabl
 
 ## 🌐 Connect with Me
 
-- **GitHub**: [Annurag](https://github.com/Annurag-24)  
+- **GitHub**: [Anurag](https://github.com/Annurag-24)  
 - **LinkedIn**: [Anurag LinkedIn](http://linkedin.com/in/annuragsingh)  
 - **Email**: [Anurag Gmail](mailto:annurag2402@gmail.com)
   
