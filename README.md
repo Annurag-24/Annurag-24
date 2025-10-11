@@ -1,4 +1,4 @@
-# 👋 Anurag Singh
+# 👋 Anurag Sunil Singh
 
 💻 **Senior Software Developer | Mobile Engineer | Tech Lead**
 
