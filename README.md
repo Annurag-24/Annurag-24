@@ -1,53 +1,54 @@
-# 👋 Anurag Sunil Singh
+# 👋 Hi, I'm Anurag Sunil Singh
 
 💻 **Senior Software Developer | Mobile Engineer | Tech Lead**
 
-I am a **mobile software engineer** passionate about building scalable, performant, and secure applications. My expertise spans **Flutter, Kotlin, and Swift**, with a proven record in designing **FinTech, HealthTech, and AI-powered mobile solutions**.
+I design and deliver scalable, secure, and high-performance mobile applications with strong product impact.  
+My core strengths are in **Flutter, Kotlin, and Swift**, with hands-on experience building **FinTech, HealthTech, and AI-powered solutions**.
 
-I bring experience in **leading mobile teams, architecting clean and maintainable codebases, and optimizing app performance** to meet both business goals and user expectations.
+I enjoy leading mobile initiatives end-to-end—from architecture and clean code practices to performance tuning, CI/CD automation, and mentoring engineering teams.
+
+---
+
+## 🚀 About Me
+
+- 📱 Mobile-first engineer focused on quality, reliability, and user experience
+- 🧠 Strong in system design, maintainable architecture, and codebase modernization
+- 🤝 Experienced in team leadership, technical mentorship, and cross-functional collaboration
+- 🔒 Security-conscious developer with practical experience in secure payments and API integration
 
 ---
 
 ## 🛠️ Core Expertise
 
-- **Mobile Development**: Flutter, Kotlin, Swift, React Native (familiar)
-- **Architectures & Patterns**: MVVM, Clean Architecture, Jetpack Compose, State Management (Bloc, GetX, Provider)
-- **Backend Integration**: REST APIs, Firebase, Secure Payment SDKs (Plaid, Onfido, Razorpay, Stripe)
-- **DevOps & CI/CD**: GitHub Actions, Automated Builds, Release Pipelines, App Store & Play Console Management
-- **Performance Optimization**: Latency reduction, crash-free releases, efficient resource usage
-- **Team Leadership**: Coaching engineers, defining coding standards, reviewing architecture, and mentoring
+- **Mobile Development:** Flutter, Kotlin, Swift, React Native (familiar)
+- **Architectures & Patterns:** MVVM, Clean Architecture, Jetpack Compose, Bloc / GetX / Provider
+- **Backend & Integrations:** REST APIs, Firebase, Payment & KYC SDKs (Plaid, Onfido, Razorpay, Stripe)
+- **DevOps & Delivery:** GitHub Actions, CI/CD pipelines, App Store & Play Console releases
+- **Performance Engineering:** Crash reduction, startup optimization, latency and memory improvements
+- **Leadership:** Team mentoring, coding standards, architecture reviews, delivery ownership
 
 ---
 
 ## 🧩 Technical Stack
 
-- **Languages**: Kotlin, Dart, Swift, SQL, C#
-- **Frameworks/Libraries**: Flutter SDK, Jetpack Compose, Coroutines, Dagger Hilt, RxJava, Retrofit, Room, OpenTelemetry
-- **Tools**: Android Studio, Xcode, Git, Firebase, Postman, VS Code
-- **Methodologies**: Agile, Test-Driven Development, Profiling & Debugging, Secure Code Practices
+- **Languages:** Kotlin, Dart, Swift, SQL, C#
+- **Frameworks/Libraries:** Flutter SDK, Jetpack Compose, Coroutines, Dagger Hilt, RxJava, Retrofit, Room, OpenTelemetry
+- **Tools:** Android Studio, Xcode, Firebase, Git, Postman, VS Code
+- **Practices:** Agile, TDD mindset, profiling & debugging, secure coding principles
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- 🥇 Twice awarded **Best Employee of the Quarter** for outstanding contributions
-- 🚀 Successfully led and delivered cross-functional projects while managing teams of up to 7 engineers
-- ⚡ Recognized for delivering optimized applications in **new tech stacks under record timelines**
-- 🔒 Improved CI/CD pipelines and API security, reducing release cycle errors by **20%**
-- 📈 Consistently mentored and upskilled team members to deliver high-quality, scalable solutions
-
----
-
-## 🌟 Professional Values
-
-- Analytical & critical thinking to design robust solutions
-- Attention to detail with a focus on scalability and performance
-- Strong communicator, mentor, and collaborative team player
-- Adaptive to new frameworks, tools, and evolving tech stacks
+- 🥇 Awarded **Best Employee of the Quarter** (2x) for high-impact engineering contributions
+- 🚀 Led and delivered cross-functional products while managing teams of up to **7 engineers**
+- ⚡ Delivered performant applications in new stacks under aggressive timelines
+- 🔐 Improved release safety and API security, reducing CI/CD release errors by **20%**
+- 📈 Helped teams grow through consistent mentoring and technical upskilling
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annurag-24&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annurag-24&layout=compact&theme=tokyonight)
@@ -55,12 +56,12 @@ I bring experience in **leading mobile teams, architecting clean and maintainabl
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-- **GitHub**: [Annurag](https://github.com/Annurag-24)  
-- **LinkedIn**: [Anurag LinkedIn](http://linkedin.com/in/annuragsingh)  
-- **Email**: [Anurag Gmail](mailto:annurag2402@gmail.com)
+- **GitHub:** [Annurag-24](https://github.com/Annurag-24)
+- **LinkedIn:** [annuragsingh](http://linkedin.com/in/annuragsingh)
+- **Email:** [annurag2402@gmail.com](mailto:annurag2402@gmail.com)
 
 ---
 
-🔥 Always open to **collaborations, freelance opportunities, and innovative product development** in the mobile and tech ecosystem.
+🔥 Open to **collaborations, freelance opportunities, and product-focused mobile engineering roles**.
